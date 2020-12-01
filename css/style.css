@@ -1,0 +1,54 @@
+body {
+  background-color: #3d3d3d
+}
+
+#link1 {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+#link1:hover {
+  color: rgb(255, 185, 185);
+}
+
+#link1:focus {
+  color: rgb(255, 122, 122);
+}
+
+#link1:active {
+  color: rgb(255, 0, 0);
+}
+
+#link2 {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+#link2:hover {
+  color: rgb(213, 255, 185);
+}
+
+#link2:focus {
+  color: rgb(122, 255, 133);
+}
+
+#link2:active {
+  color: rgb(0, 255, 34);
+}
+
+#link3 {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+#link3:hover {
+  color: rgb(185, 250, 255);
+}
+
+#link3:focus {
+  color: rgb(122, 251, 255);
+}
+
+#link3:active {
+  color: rgb(0, 238, 255);
+}
